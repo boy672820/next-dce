@@ -10,6 +10,11 @@ madge 설치하기
 npm i -D madge
 ```
 
+detect-unused 실행
+```bash
+node scripts/detect-unused.js
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
