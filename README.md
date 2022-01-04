@@ -1,4 +1,4 @@
-# next-dce
+# Next.js Dead Code Elimination
 Next.js 환경에서 데드코드 제거하기
 
 - madge 사용(vercel에서도 사용 중)
