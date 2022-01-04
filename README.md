@@ -2,6 +2,7 @@
 Next.js 환경에서 데드코드 제거하기
 
 - madge 사용(vercel에서도 사용 중)
+- scripts/detect-unused.js 파일에 정의되어 있음
 - css & scss 및 컴포넌트 테스트
 
 madge 설치하기
