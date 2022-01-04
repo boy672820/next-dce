@@ -1,3 +1,15 @@
+# next-dce
+Next.js 환경에서 데드코드 제거하기
+
+- madge 사용(vercel에서도 사용 중)
+- css & scss 및 컴포넌트 테스트
+
+madge 설치하기
+
+```bash
+npm i -D madge
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
